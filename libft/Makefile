@@ -37,7 +37,7 @@ SRCS =	ft_memset.c		\
 
 NAME			= libft.a
 
-CC				= gcc
+CC				= cc
 
 CFLAGS			= -Wall -Wextra -Werror
 
